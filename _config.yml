@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tbrc.github.io
+title: tbrc
+tagline: Be updated
+description: The Business Research Company
+paginate: 5
